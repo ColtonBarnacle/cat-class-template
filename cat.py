@@ -9,12 +9,6 @@ class Cat():
 
 
 
-
-
-        
-
-
-
 Stella = cat.Cat()
 Stella.age = 7
 
