@@ -1,15 +1,24 @@
 #Revmoe pass and complete the cat class
+import cat
 class Cat():
     def __init__(self):
         self.name = 'unknown'
         self.age = 0
+    def speak():
+        print('Meow')
 
 
 
-Stella = Cat()
+
+
+        
+
+
+
+Stella = cat.Cat()
 Stella.age = 7
 
-Garfield = Cat()
+Garfield = cat.Cat()
 Garfield.age = 50
 
 
