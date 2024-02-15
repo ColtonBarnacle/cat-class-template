@@ -2,7 +2,7 @@
 
 class Cat():
     def __init__(self):
-        self.name = 'unknown'
+        self.name = 'Unknown'
         self.age = 0
     def speak(self):
         return 'Meow'
