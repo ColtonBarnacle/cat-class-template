@@ -15,9 +15,9 @@ class Cat():
 #Create objects here
 #These should NOT be indented inside the class
 
-Stella = Cat()
-Stella.name = 'Stella'
-Stella.age = 7
+stella = Cat()
+stella.name = 'Stella'
+stella.age = 7
 
 
 Garfield = Cat()
