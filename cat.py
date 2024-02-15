@@ -18,6 +18,7 @@ Stella.name = 'Stella'
 Stella.age = 7
 
 
+
 Garfield = Cat()
 Garfield.name = 'Garfield'
 Garfield.age = 50
