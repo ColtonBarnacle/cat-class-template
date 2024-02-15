@@ -5,16 +5,7 @@ class Cat():
         self.name = 'unknown'
         self.age = 0
     def speak(self):
-        print('Meow')
-
-
-
-Stella = cat.Cat()
-Stella.age = 7
-
-Garfield = cat.Cat()
-Garfield.age = 50
-
+        return 'Meow'
 
 
 
@@ -22,3 +13,11 @@ Garfield.age = 50
 #Create objects here
 #These should NOT be indented inside the class
 
+Stella = Cat()
+Stella.name = 'Stella'
+Stella.age = 7
+
+
+Garfield = Cat()
+Garfield.name = 'Garfield'
+Garfield.age = 50
