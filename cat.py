@@ -15,6 +15,7 @@ class cat():
 #Create objects here
 #These should NOT be indented inside the class
 
+
 stella = cat()
 stella.name = 'Stella'
 stella.age = 7
