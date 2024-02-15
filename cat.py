@@ -20,6 +20,6 @@ stella.name = 'Stella'
 stella.age = 7
 
 
-Garfield = cat()
-Garfield.name = 'Garfield'
-Garfield.age = 50
+garfield = cat()
+garfield.name = 'Garfield'
+garfield.age = 50
