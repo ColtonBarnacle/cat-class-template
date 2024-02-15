@@ -1,6 +1,6 @@
 #Revmoe pass and complete the cat class
 import cat
-class cat():
+class Cat():
     def __init__(self):
         self.name = 'unknown'
         self.age = 0
@@ -16,11 +16,11 @@ class cat():
 #These should NOT be indented inside the class
 
 
-stella = cat()
+stella = Cat()
 stella.name = 'Stella'
 stella.age = 7
 
 
-garfield = cat()
+garfield = Cat()
 garfield.name = 'Garfield'
 garfield.age = 50
