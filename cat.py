@@ -1,5 +1,5 @@
 #Revmoe pass and complete the cat class
-import cat
+
 class Cat():
     def __init__(self):
         self.name = 'unknown'
